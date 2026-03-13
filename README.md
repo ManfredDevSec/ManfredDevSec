@@ -2,7 +2,7 @@
 
 <img height="150" src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" />
 
-#  Manfred Yayra Yegbe
+# Manfred Yayra Yegbe
 
 ### Backend Developer | Security Researcher | Ghana 🇬🇭
 
@@ -14,11 +14,11 @@
 
 ---
 
-##  About Me
+## About Me
 
 ```python
 class Manfred:
-    location       = "Kumasi, Ghana "
+    location       = "Kumasi, Ghana"
     role           = "Backend Developer & Security Researcher"
     current_focus  = [
         "Building secure, scalable backend APIs",
@@ -31,30 +31,30 @@ class Manfred:
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 <div align="center">
 
-###  Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-###  Backend & Frameworks
+### Backend & Frameworks
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 
-###  Databases & Caching
+### Databases & Caching
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-###  Push Notifications
+### Push Notifications
 ![FCM](https://img.shields.io/badge/Firebase_FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![APNs](https://img.shields.io/badge/Apple_APNs-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-###  Security & Pentesting
+### Security & Pentesting
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
@@ -64,27 +64,17 @@ class Manfred:
 
 ---
 
-##  GitHub Analytics
+## GitHub Analytics
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManfredDevSec&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=css" alt="ManfredDevSec" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ManfredDevSec&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="ManfredDevSec" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManfredDevSec&theme=tokyonight&hide_border=true&background=0D1117" alt="ManfredDevSec" /></p>
 
-###  Contributions This Year
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=ManfredDevSec&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117" alt="Contribution Stats" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ManfredDevSec&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Manfred's Trophies"/>
-</div>
+<br clear="both"/>
 
 ---
 
-##  Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -94,21 +84,21 @@ class Manfred:
 
 ---
 
-##  Current Focus — 2025
+## Current Focus — 2025
 
 ```python
 goals_2025 = [
-    " Deepening expertise in web application security & CTF challenges",
-    "  Architecting production-grade Django REST APIs",
-    "  Mastering advanced network penetration testing",
-    "  Pursuing security certifications (CEH / OSCP track)",
-    "  Contributing to open-source security tooling"
+    "Deepening expertise in web application security & CTF challenges",
+    "Architecting production-grade Django REST APIs",
+    "Mastering advanced network penetration testing",
+    "Pursuing security certifications (CEH / OSCP track)",
+    "Contributing to open-source security tooling"
 ]
 ```
 
 ---
 
-##  Philosophy
+## Philosophy
 
 > *"The quieter you become, the more you are able to hear."*
 
@@ -118,7 +108,7 @@ Silence is where clarity lives. I build systems that are not just functional —
 
 <div align="center">
 
-###  Let's Connect
+### Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manfredyegbe@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manfred-yegbe-0770a82a7/)
@@ -126,13 +116,12 @@ Silence is where clarity lives. I build systems that are not just functional —
 
 ---
 
-###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-** From [ManfredDevSec](https://github.com/ManfredDevSec) | Built with 🛡️ and ☕ in Kumasi, Ghana**
+**From [ManfredDevSec](https://github.com/ManfredDevSec) | Built with passion in Kumasi, Ghana**
 
 </div>
