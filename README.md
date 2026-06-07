@@ -54,6 +54,7 @@ class Manfred:
 ### Push Notifications
 ![FCM](https://img.shields.io/badge/Firebase_FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![APNs](https://img.shields.io/badge/Apple_APNs-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Expo Push](https://img.shields.io/badge/Expo_Push-000000?style=for-the-badge&logo=expo&logoColor=white)
 
 ### Security & Pentesting
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
