@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Backend+Developer+%26+Security+Researcher;Building+secure%2C+scalable+systems;Django+%7C+Spring+Boot+%7C+REST+APIs+%7C+Penetration+Testing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Backend+Developer+%26+Security+Researcher;Building+secure%2C+scalable+systems;Django+%7C+Spring+Boot+%7C+REST+APIs+%7C+Penetration+Testing" alt="Typing SVG" />
 
 # Manfred Yayra Yegbe
 
