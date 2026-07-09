@@ -11,7 +11,6 @@
 </div>
 
 
-
 ## About
 
 I build secure, production-grade backend systems with a focus on API architecture and application security. Currently deepening expertise in penetration testing and vulnerability research while shipping real-world Django REST APIs — and expanding into the Java/Spring Boot ecosystem.
