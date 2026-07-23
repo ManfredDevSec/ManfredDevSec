@@ -143,9 +143,9 @@ A RESTful task management API built while learning Spring Boot — coming from a
 
 ---
 
-## 2025 Goals
+## 2026 Goals
 
-- Ship production-ready APIs for Yura & VarsityMart
+- Ship production-ready APIs 
 - Build more projects with Spring Boot to solidify Java backend skills
 - Complete CEH / begin OSCP track
 - Deepen web application security via CTF challenges
