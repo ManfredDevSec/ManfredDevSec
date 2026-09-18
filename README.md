@@ -92,7 +92,7 @@ A production backend for a mobile gifting platform. Covers product management, o
 ### Adawise — Smart Savings & Group Finance API
 > Django REST Framework · MTN MoMo · OTP · KYC · PostgreSQL
 
-A backend service for a smart savings and group-finance platform. Handles user authentication via email and phone, OTP verification flows, KYC submission and admin review, savings circle chat endpoints, and full MTN Mobile Money integration for both collection and disbursement.
+A backend service for a smart savings and group-finance platform. Handles user authentication via email and phone, OTP verification flows, KYC submission and admin review, savings circle chat endpoints, and full Moolre Payments integration for both collection and disbursement.
 
 `Fintech` `Mobile Money` `KYC` `OTP Auth` `Savings Circles` `Django REST`
 
