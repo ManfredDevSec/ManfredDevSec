@@ -120,7 +120,7 @@ A RESTful task management API built while learning Spring Boot — coming from a
 
 | Area | Tools & Technologies |
 |------|----------------------|
-| **API Design** | Django REST Framework, Spring Boot, FastAPI, JWT Auth, Paystack |
+| **API Design** | Django REST Framework, Spring Boot, FastAPI, Laravel, JWT Auth, Paystack |
 | **Java Ecosystem** | Spring Boot, Spring Data JPA, Maven, H2 |
 | **Databases** | PostgreSQL, MySQL, SQLite, Redis, H2 |
 | **Real-time** | Django Channels, WebSockets |
